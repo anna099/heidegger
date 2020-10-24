@@ -8,6 +8,7 @@ html {
     --cblue: #515c94;
     --cred: #a14a3f;
     --ctext: #1a0f00;
+    --tint: rgba(161, 74, 63, 0.2);
 }
 
 html#dark {
@@ -52,7 +53,7 @@ sup {
     top: -0.4em;
 }
 ::selection {
-    background: rgba(161, 74, 63, 0.2);
+    background: var(--tint);
 }
 
 /* Epigraphs */
@@ -96,6 +97,17 @@ h4:not(#author):not(.subtitle) {
     font-size: 0.9em;
     text-align: right;
 }
+/* Used for the Being and Time commentary section numbers, e.g. '§42'. */
+h1#btsec {
+    float: left;
+    font-size: 1.2em;
+    line-height: 1.3em;
+    margin: 1em 0 0 0;
+    padding-right: 1em;
+    font-weight: normal;
+    font-style: italic;
+    color: var(--cred);
+}
 
 hr {
     width: 25em;
@@ -130,10 +142,11 @@ hr {
     display: none;
 }
 
-.footnotes ol {
+/* Columns in Footnotes */
+/*.footnotes ol {
     column-count: 2;
     column-gap: 3em;
-}
+}*/
 
 .footnotes li,
 .footnotes p {
@@ -184,10 +197,7 @@ img {
     display: block;
     width: 60%;
     margin: 30px auto 40px auto;
-}
-
-img#title {
-    opacity: 0.8;
+    border: 2px solid black;
 }
 
 #author {
@@ -200,6 +210,30 @@ img#title {
     letter-spacing: 0.1em;
     color: var(--ctext);
     opacity: 0.6;
+}
+
+#title {
+    text-align: center;
+    font-weight: normal;
+    font-style: italic;
+    font-size: 4em;
+    margin-bottom: -15px;
+}
+#title-hr {
+    padding: 0;
+    border: none;
+    border-top: medium double #333;
+    color: #333;
+    text-align: center;
+}
+#title-hr::after {
+    content: '🙞 ';
+    display: inline-block;
+    position: relative;
+    top: -0.9em;
+    font-size: 1.3em;
+    padding: 0 0.25em;
+    background: var(--pale);
 }
 
 #nav {
