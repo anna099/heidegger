@@ -1,12 +1,12 @@
 ## A Bibliography of Quotations
 
-### 1. Taylor Carman
+### Taylor Carman
 
 In Taylor Carman's book *Heidegger's Analytic*,[^1] he argues, on the grounds of
 Heidegger's declaration that '*Only as phenomenology, is ontology possible'* (SZ
 35), that the analysis of Dasein is the centre of Heidegger's whole project:
 
-# 9 {#btsec}
+# 9 {.btsec}
 
 > Philosophy begins in wonder, Plato and Aristotle say, and in the course of his
 > inquiry into the meaning of being, Heidegger can fairly be credited with
@@ -19,13 +19,13 @@ project, and that the decision to pursue ontology through Dasein is analogous to
 Kant's decision to pursue his critique of metaphysics through an analysis of the
 faculties that attempt metaphysics:
 
-# 10 {#btsec}
+# 10 {.btsec}
 
 > [There is] an unmistakable analogy between Heidegger’s fundamental ontology in
 > *Being and Time* and the "Copernican revolution" in philosophy Kant claimed to
 > have brought about in the *Critique of Pure Reason*.
 
-# 11 {#btsec}
+# 11 {.btsec}
 
 > Just as, for Kant, human reason is burdened with questions that it can neither
 > dismiss nor answer, so too, for Heidegger, Dasein is in under constant, if at
@@ -36,7 +36,7 @@ The intended result of Heidegger's transcendental inquiry, Carman explains, is
 not the conditions of knowledge, as it was for Kant, but instead the conditions
 for interpretation -- most especially, the interpretation of beings.
 
-# 12 {#btsec}
+# 12 {.btsec}
 
 > So, just as Kant is concerned not with the empirical contents of our beliefs,
 > but with the subjective conditions of knowledge, Heidegger, I shall argue, is
@@ -57,7 +57,7 @@ The primary difference between Kantian epistemic conditions and Heideggerian
 hermeneutic conditions is, for Carman, that the latter profess no independence
 from the hermeneutic being itself (namely, Dasein):
 
-# 23 {#btsec}
+# 23 {.btsec}
 
 > the point of fundamental ontology is precisely to deny any sense of
 > ontological commitment independent of an account of our own everyday,
@@ -69,7 +69,7 @@ the tradition of analytic philosophers such as Putnam and Kripke, distinguished
 from these other writers by his focus on *social* externalities, as opposed to
 *physical* ones:
 
-# 137 {#btsec}
+# 137 {.btsec}
 
 > Simply put, on my reading, Heidegger is a social externalist, not a physical
 > externalist. That is, although he locates the constitutive conditions of
@@ -85,7 +85,7 @@ Perhaps the most egregious instance of Carman's transformation of Heidegger into
 an analytic philosopher is his insistence that Heidegger is an 'ontic realist',
 committed to a kind of 'metaphysical common sense':
 
-# 134 {#btsec}
+# 134 {.btsec}
 
 > To say that Heidegger is an *ontic realist*, then, is to say that, although he
 > maintains that cognition is founded on being-in, and that occurrent reality is
@@ -93,7 +93,7 @@ committed to a kind of 'metaphysical common sense':
 > constitutes a practical context of hermeneutic conditions, occurrent entities
 > themselves nevertheless do not depend on Dasein's being-in-the-world.
 
-# 136 {#btsec}
+# 136 {.btsec}
 
 > [Heidegger's] phenomenology is an account of the categories by which we do in
 > fact make sense of things, so his account of our interpretations of entities

@@ -98,7 +98,7 @@ h4:not(#author):not(.subtitle) {
     text-align: right;
 }
 /* Used for the Being and Time commentary section numbers, e.g. '§42'. */
-h1#btsec {
+h1.btsec {
     float: left;
     font-size: 1.2em;
     line-height: 1.3em;

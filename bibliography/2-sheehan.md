@@ -1,4 +1,4 @@
-### Thomas Sheehan
+### Thomas Sheehan {#sheehan}
 
 Thomas Sheehan (1941-) is an American professor of Religious Studies and German
 philosophy. He was a student of William J. Richardson, whose work inaugurated

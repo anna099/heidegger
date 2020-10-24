@@ -1,4 +1,4 @@
-### Joan Stambaugh
+### Joan Stambaugh {#stambaugh}
 
 Stambaugh uses her introduction to Heidegger's *On Time and Being* to outline
 how Heidegger's later work marks a change from his earlier work (i.e., in *Being
