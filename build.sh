@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-chapters=('introduction' 'being-and-time' 'bibliography')
+chapters=('introduction' 'being-and-time' 'interpretations')
 FN=x-footnotes.md
 TEMP=temp.html
 

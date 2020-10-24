@@ -1,4 +1,4 @@
-## A Bibliography of Quotations
+## Interpretations of Heidegger
 
 ### Taylor Carman
 
