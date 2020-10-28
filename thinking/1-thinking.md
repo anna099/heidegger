@@ -40,6 +40,8 @@ thinker was able to successfully and entirely overcome their life through
 philosophy. (In general, the incessant division of philosophy into 'topics' or
 'issues' is a bad sign.)
 
+---
+
 I understand Heidegger's project to be calling for a kind of awakening. In the
 exergue to *Being and Time*, he invokes the Platonic theme of forgetting: we
 have *forgotten* the meaning of being. Moreover, he claims, we have forgotten
@@ -86,3 +88,43 @@ overall project lacks consistency insofar as he initially promises that *time*
 will be the horizonal concept of his thinking -- as his work progresses, he
 retains the insistence on a horizon, but does not keep 'time' as the mark of
 this horizon.
+
+So, how is the being-question asked? And -- of course we must also ask this --
+what is its answer? As countless introductions to Heidegger have noted, the
+issue(s) of ontology first arose in his life when he was gifted a copy of Franz
+Brentano's book, *On the Manifold Sense of Being in Aristotle* (1862). Brentano
+uses a crucial phrase from Aristotle as the epigraph to his book: *Τὸ ὂν λέγεται
+πολλαχῶς*. Heidegger translates this as 'Das Seiende wird (nämlich hinsichtlich
+seines Seins) in vielfacher Weise offenkundig'. *That which is becomes manifest
+(with regard to its being) in many ways*. This notion, which Heidegger stays
+true to throughout his whole career, is manifest in his work in two ways:
+
+1. Ways of being: just like Aristotle, Heidegger recognises that there are
+   different ways or modes of being. For Aristotle, these are fourfold:
+   accidental being, being as truth, being as potentiality or actuality, and
+   categorial being. Heidegger does not enumerate the modes of being, but in
+   *Being and Time* introduces *Zuhandenheit* and *Vorhandenheit* as two central
+   modes of the being of non-Dasein entities.
+2. 'Ways, not works': this phrase of Heidegger's is given at the beginning of
+   the Gesamtausgabe, and is a partial explanation of the constant changes in
+   Heidegger's voice. For as long as his questioning is directed toward *being*,
+   which 'is manifest in many ways', so too must Heidegger's thought be directed
+   in many ways.
+
+We can accordingly formulate the being-question as: what is it that unifies all
+the manifold ways of being? Heidegger's project -- when it is successful --
+expresses the answer to this question in manifold ways.
+
+The first two elements of Heidegger's questioning and answering are
+*phenomenology* and *the ontological difference*. (The latter, I would argue, is
+the central concept in Heidegger's career, if we must claim that there is such a
+thing). Heidegger inherited phenomenology from Husserl, but he was not quite so
+ambitious with it; while, for Husserl, phenomenology 'was elaborated into a
+distinctive philosophical position according to a pattern set by Descartes, Kant
+and Fichte', for the early Heidegger its primary purpose was as a clue for
+engaging the being-question.[^4] Phenomenology is the λόγος of φαίνεσθαι: it is
+the manifesting of that-which-shows-itself. As Heidegger writes in *Being and
+Time*, the "being true" of λόγος is always ἀλήθεια: un-concealing.
+Phenomenology, as the λόγος of phenomena, must 'take beings [that are manifest]
+out of their concealment; to let them be seen as something unconcealed (ἀληθές);
+to *discover* them'.[^5]

@@ -32,7 +32,8 @@ body {
 
 /* Main Text: --------------------------------------------------- */
 p,
-blockquote p {
+blockquote p,
+li {
     margin-bottom: 0;
     position: relative;
     font-size: 1.2em;
@@ -51,6 +52,9 @@ sup {
     vertical-align: baseline;
     position: relative;
     top: -0.4em;
+}
+ol {
+    padding-left: 0;
 }
 ::selection {
     background: var(--tint);
@@ -74,7 +78,7 @@ blockquote.epigraph footer {
 /* Headers */
 h2, h3 { text-align: center; color: var(--cred); }
 h2 {
-    font-family: adobe-garamond-pro, sans-serif;
+    font-family: adobe-garamond-pro, 'Arno Pro', ap, sans-serif;
     font-size: 1.9em;
     padding-top: 10px;
     margin-bottom: -0.34em;
@@ -254,14 +258,13 @@ img {
 #contents {
     width: 50%;
     padding-left: 2.4rem;
-    font-size: 1rem;
     margin: 0 auto;
     margin-bottom: 4em;
     white-space: nowrap;
     counter-reset: toc;
 }
 #contents ol { padding-left: 0; counter-reset: toc; }
-#contents li { list-style-type: none; display: block; margin-top: 0 }
+#contents li { list-style-type: none; display: block; margin-top: 0; font-size: 1rem; }
 #contents > li { margin-top: 1em; }
 /* Decimal numbering */
 #contents li::before {
