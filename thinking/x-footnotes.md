@@ -5,3 +5,4 @@
 [^3]: Heidegger, *Being and Time*, translated by J. Stambaugh (Albany, NY: State University of New York Press, 2010), p. xxix.
 [^4]: Heidegger, 'Preface', in William J. Richardson, *Heidegger: From Phenomenology to Thought* (New York: Fordham University Press, 2003), p. xiv.
 [^5]: *Being and Time*, p. 31.
+[^6]: Pascal, *Pensées et Opuscules*, cited in *Being and Time*, p. 3.

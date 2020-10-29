@@ -128,3 +128,49 @@ Time*, the "being true" of λόγος is always ἀλήθεια: un-concealing.
 Phenomenology, as the λόγος of phenomena, must 'take beings [that are manifest]
 out of their concealment; to let them be seen as something unconcealed (ἀληθές);
 to *discover* them'.[^5]
+
+The ontological difference is what makes Heidegger's work so revolutionary (and
+also difficult). It is an observation that is easy to state but difficult to
+comport one's thinking around. The 'doctrine' of ontological difference states
+that *there is a difference between beings and being itself*. In other words,
+'being' -- that which qualifies things *as things* -- is not itself a thing. It
+would be a grave error to hear this and subsequently render Heidegger as a kind
+of Platonist, for whom every thing is indebted in its essence to something more
+universal; for, in Plato, the forms or ideas are still, nonetheless, things.
+Indeed -- and here is the radical core of Heidegger's thinking -- the fact that
+being is not *a being* is what makes it completely elusive to the realm of
+propositional or definitional philosophy: as Pascal had realised, 'One cannot
+undertake to define being without falling into this absurdity; for one cannot
+define a word without beginning in this way: *"It is ..."*'[^6]
+
+These primary philosophical elements of Heidegger's -- phenomenology and the
+ontological difference -- are united to reveal the precise way in which the
+being-question is to be answered: not by asserting a proposition or a
+definition, which would remain trapped in the ontic sphere (i.e. the sphere of
+beings, things, entities), but to *let* being be *unconcealed* to us. Throughout
+all of Heidegger's 'ways, not works', it is this strategy, I argue, that remains
+ever-present. When he makes use of the concept of *Gelassenheit* in his later
+work, for instance, we still see the motif of *letting* [*lassen*] being *be*.
+When he increases his focus on poetry in the thirties, he is consciously aware
+of the capacity of poetic language to *let things be*, and allow a world to come
+into unconcealment. This is illustrated well by Angelus Silesius's poem, which
+Heidegger was so fond of:
+
+> *The rose is without 'why';<br>
+> It blooms simply because it blooms;<br>
+> It pays no attention to itself,<br>
+> Nor does it ask whether anyone sees it.*
+
+As I understand it, this recurring approach in Heidegger's thinking -- for
+which, in my view, the term *Gelassenheit* serves as a useful synecdoche -- is
+the inevitable consequence of thinking the ontological difference. Ordinary
+language (which Heidegger is so hostile towards, along with most other facets of
+'common sense') is overwhelmingly 'ontic': to speak or write in a
+representational register is to rely on subjects, predicates, and an infinity of
+*things*, without any regard for the *being* of those things. It is no wonder
+that Carnap had to entirely reject Heidegger's writing about *das Nichts*: as
+Hegel recognised over a century prior to Carnap and Heidegger, 'the nothing' (as
+well as being itself) is no-thing, i.e., no entity.
+
+Carnap's failure -- and the failure of the entire history of philosophy,
+according to Heidegger, is the self-entrapment within *ontotheology*.

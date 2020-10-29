@@ -204,6 +204,12 @@ img {
     border: 2px solid black;
 }
 
+img#signature {
+    border: none;
+    width: 30%;
+    margin: 0 auto;
+}
+
 #author {
     text-align: center;
     margin: 0 0 10px 0;
