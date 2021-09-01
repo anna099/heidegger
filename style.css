@@ -22,7 +22,7 @@ body {
     width: 50%;
     margin: 1% auto 1% auto;
     padding: 20px 40px;
-    font-family: 'Arno Pro', 'ap', adobe-garamond-pro, serif;
+    font-family: 'Minion Pro', 'ap', 'Garamond', serif;
     font-weight: 400;
     font-feature-settings: 'onum';
     counter-reset: section;
@@ -36,12 +36,13 @@ blockquote p,
 li {
     margin-bottom: 0;
     position: relative;
-    font-size: 1.2em;
+    font-size: 1.05em;
     line-height: 1.3em;
     text-align: justify;
 }
 p + p { text-indent: 1em; margin-top: 0; }
 blockquote { margin: 0px 40px; }
+blockquote + blockquote p { margin-top: 0; text-indent: 1em; }
 strong { font-weight: 600; }
 a { text-decoration: none; color: var(--cblue); }
 a:hover { text-decoration: underline; }
@@ -62,17 +63,18 @@ ol {
 
 /* Epigraphs */
 blockquote.epigraph {
-    width: 75%;
-    padding-left: 17%;
+    width: 55%;
+    margin: 2.5em 45%;
     font-size: 1em;
-    margin-top: 2.5em;
-    text-align: right;
-    font-style: italic;
+    text-align: justify;
 }
 blockquote.epigraph footer {
     margin-top: 0.6em;
+    padding-top: 0.6em;
     font-style: normal;
     font-size: 0.9em;
+    text-align: right;
+    border-top: 1px solid var(--ctext);
 }
 
 /* Headers */
@@ -177,7 +179,6 @@ hr {
     background: var(--cred);
     color: var(--pale);
     max-width: 33ch;
-    transition: 0.2s all;
 }
 #hover-note p {
     font-size: 0.95em;
